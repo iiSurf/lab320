@@ -4,7 +4,7 @@ import Navbar from "../components/NavBar";
 import MainDisplay from "../components/MainDisplay";
 import Product from "../components/Products";
 // ----------------[Requires/Imports]
-//Test
+//Test test
 function App() {
 
   let products = {
